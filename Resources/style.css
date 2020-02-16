@@ -435,6 +435,7 @@ display: block;
          }
          .imginfo2{
              width: 100%;
+             padding-bottom: 48px;
              
              
          }
@@ -463,7 +464,6 @@ display: block;
              background-color: white;
              margin: 0px;
              padding: 0 16px 0 16px;
-             border: 0.5px solid #9b9b9b;
              padding-top: 32px;
          }
 
