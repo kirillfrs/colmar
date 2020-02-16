@@ -315,10 +315,6 @@ font-size: 4em;
     
 }
 
-.information-footer p{
-    
-}
-
 
 footer{
     padding:16px 24px;
@@ -520,7 +516,7 @@ display: none;
 .video{
     width: 100%;
     margin:0px 0px 24px 0px;
-   
+   height: auto;
 }
 
 .colum{
