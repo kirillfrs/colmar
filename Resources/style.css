@@ -387,6 +387,8 @@ display: none;
          }
          .start-here h1{
              margin-bottom: 32px;
+             white-space: unset;
+             font-size: 3.7em;
          }
          .start-here p{
              margin-bottom:24px;
@@ -416,9 +418,10 @@ display: none;
          }
 
          .Oriental-date{
-
+display: block;
              position: static ;
              width: 100%;
+             padding: 20px 0px 0px 16px;
              
          }
 
